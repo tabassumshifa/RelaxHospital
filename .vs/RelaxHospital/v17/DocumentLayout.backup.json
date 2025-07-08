@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\doctorform(admitted).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\doctorform(admitted).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\admit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\admit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\bloodbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\bloodbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\bloodbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\bloodbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|d:\\aiub\\5th semester\\csharp project\\relaxhospital\\relaxhospital\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\doctorform(admitted).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\doctorform(admitted).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\doctorform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\doctorform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\doctorform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\doctorform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\appointpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\appointpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\appointpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\appointpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\doctorform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\doctorform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\doctorform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\doctorform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\admit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\admit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\adminbloodbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\adminbloodbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|d:\\aiub\\5th semester\\csharp project\\relaxhospital\\relaxhospital\\adminbloodbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\adminbloodbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|d:\\aiub\\5th semester\\csharp project\\relaxhospital\\relaxhospital\\adminappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\adminappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\adminappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\adminappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\admin_nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\admin_nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\admin_nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\admin_nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\adminpetient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\adminpetient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\admindoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\admindoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\admindoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\admindoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\adminpetient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\adminpetient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\relaxhospital\\doctorform(admitted).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7C2CA1-2C16-4E63-938A-3F9AB8B1DB8B}|RelaxHospital\\RelaxHospital.csproj|solutionrelative:relaxhospital\\doctorform(admitted).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorForm(Admitted).cs",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\DoctorForm(Admitted).cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\DoctorForm(Admitted).cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\DoctorForm(Admitted).cs",
+              "RelativeToolTip": "RelaxHospital\\DoctorForm(Admitted).cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAIwCEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:55:19.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BloodBank.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\BloodBank.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\BloodBank.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\BloodBank.cs [Design]",
+              "RelativeToolTip": "RelaxHospital\\BloodBank.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T21:08:24.201Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BloodBank.cs",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\BloodBank.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\BloodBank.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\BloodBank.cs",
+              "RelativeToolTip": "RelaxHospital\\BloodBank.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAAwH4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T21:14:13.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Nurse.cs",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Nurse.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\Nurse.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Nurse.cs",
+              "RelativeToolTip": "RelaxHospital\\Nurse.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA/wCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T07:21:43.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admit.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Admit.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\Admit.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Admit.cs [Design]",
+              "RelativeToolTip": "RelaxHospital\\Admit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T21:56:22.518Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\DataAccess.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\DataAccess.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\DataAccess.cs",
+              "RelativeToolTip": "RelaxHospital\\DataAccess.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:57:21.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Program.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\Program.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Program.cs",
+              "RelativeToolTip": "RelaxHospital\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:46:09.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Nurse.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Nurse.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\Nurse.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Nurse.cs [Design]",
+              "RelativeToolTip": "RelaxHospital\\Nurse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T07:21:25.425Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoctorForm(Admitted).cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\DoctorForm(Admitted).cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\DoctorForm(Admitted).cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\DoctorForm(Admitted).cs [Design]",
+              "RelativeToolTip": "RelaxHospital\\DoctorForm(Admitted).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:55:04.127Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DoctorForm2.cs",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\DoctorForm2.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\DoctorForm2.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\DoctorForm2.cs*",
+              "RelativeToolTip": "RelaxHospital\\DoctorForm2.cs*",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAIwJEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:59:17.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DoctorForm2.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\DoctorForm2.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\DoctorForm2.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\DoctorForm2.cs [Design]*",
+              "RelativeToolTip": "RelaxHospital\\DoctorForm2.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:57:52.592Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppointPatient.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\AppointPatient.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\AppointPatient.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\AppointPatient.cs [Design]",
+              "RelativeToolTip": "RelaxHospital\\AppointPatient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T20:12:29.513Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppointPatient.cs",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\AppointPatient.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\AppointPatient.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\AppointPatient.cs",
+              "RelativeToolTip": "RelaxHospital\\AppointPatient.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T20:15:15.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DoctorForm1.cs",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\DoctorForm1.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\DoctorForm1.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\DoctorForm1.cs",
+              "RelativeToolTip": "RelaxHospital\\DoctorForm1.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:47:42.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DoctorForm1.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\DoctorForm1.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\DoctorForm1.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\DoctorForm1.cs [Design]",
+              "RelativeToolTip": "RelaxHospital\\DoctorForm1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T19:31:41.208Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cs",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Edit.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\Edit.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Edit.cs",
+              "RelativeToolTip": "RelaxHospital\\Edit.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T21:45:52.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Edit.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\Edit.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Edit.cs [Design]",
+              "RelativeToolTip": "RelaxHospital\\Edit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:41:01.032Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Login.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\Login.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Login.cs",
+              "RelativeToolTip": "RelaxHospital\\Login.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:42:05.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Login.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\Login.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Login.cs [Design]",
+              "RelativeToolTip": "RelaxHospital\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T19:28:03.87Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Patient.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\Patient.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Patient.cs",
+              "RelativeToolTip": "RelaxHospital\\Patient.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T20:10:53.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Patient.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Patient.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\Patient.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Patient.cs [Design]",
+              "RelativeToolTip": "RelaxHospital\\Patient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T19:51:00.282Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Signup.cs",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Signup.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\Signup.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Signup.cs",
+              "RelativeToolTip": "RelaxHospital\\Signup.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T20:23:50.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Signup.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Signup.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\Signup.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Signup.cs [Design]",
+              "RelativeToolTip": "RelaxHospital\\Signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T20:17:05.073Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Admin.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\Admin.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Admin.cs [Design]",
+              "RelativeToolTip": "RelaxHospital\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T21:56:19.817Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Admit.cs",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Admit.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\Admit.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Admit.cs",
+              "RelativeToolTip": "RelaxHospital\\Admit.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwGoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T21:56:34.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "adminbloodbank.cs",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\adminbloodbank.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\adminbloodbank.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\adminbloodbank.cs",
+              "RelativeToolTip": "RelaxHospital\\adminbloodbank.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:54:27.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "adminbloodbank.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\adminbloodbank.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\adminbloodbank.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\adminbloodbank.cs [Design]",
+              "RelativeToolTip": "RelaxHospital\\adminbloodbank.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T09:47:24.929Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "adminappointment.cs",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\adminappointment.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\adminappointment.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\adminappointment.cs",
+              "RelativeToolTip": "RelaxHospital\\adminappointment.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T08:11:47.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "adminappointment.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\adminappointment.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\adminappointment.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\adminappointment.cs [Design]",
+              "RelativeToolTip": "RelaxHospital\\adminappointment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:52:49.765Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "admin_nurse.cs",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\admin_nurse.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\admin_nurse.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\admin_nurse.cs",
+              "RelativeToolTip": "RelaxHospital\\admin_nurse.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAmwE4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:49:52.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "admin_nurse.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\admin_nurse.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\admin_nurse.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\admin_nurse.cs [Design]",
+              "RelativeToolTip": "RelaxHospital\\admin_nurse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T05:10:06.121Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Admin.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\Admin.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\Admin.cs",
+              "RelativeToolTip": "RelaxHospital\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:51:10.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "adminpetient.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\adminpetient.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\adminpetient.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\adminpetient.cs [Design]",
+              "RelativeToolTip": "RelaxHospital\\adminpetient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:06:21.693Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "admindoctor.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\admindoctor.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\admindoctor.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\admindoctor.cs [Design]",
+              "RelativeToolTip": "RelaxHospital\\admindoctor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:56:10.029Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "adminpetient.cs",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\adminpetient.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\adminpetient.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\adminpetient.cs",
+              "RelativeToolTip": "RelaxHospital\\adminpetient.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAowBUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:57:45.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "admindoctor.cs",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\admindoctor.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\admindoctor.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\admindoctor.cs",
+              "RelativeToolTip": "RelaxHospital\\admindoctor.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwCoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:56:02.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DoctorForm(Admitted).Designer.cs",
+              "DocumentMoniker": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\DoctorForm(Admitted).Designer.cs",
+              "RelativeDocumentMoniker": "RelaxHospital\\DoctorForm(Admitted).Designer.cs",
+              "ToolTip": "D:\\AIUB\\5th semester\\Csharp Project\\RelaxHospital\\RelaxHospital\\DoctorForm(Admitted).Designer.cs",
+              "RelativeToolTip": "RelaxHospital\\DoctorForm(Admitted).Designer.cs",
+              "ViewState": "AgIAAK0BAAAAAAAAAAAYwLkBAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T19:34:23.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
